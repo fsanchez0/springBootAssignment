@@ -28,5 +28,6 @@ mvn spring-boot:run
     How did you optimize the code for maintainability? Name things clearly and consistently.
 2. Tests passed for Duck And Chicken talk
 3. Chicken is the younger version of rooster. Without using inheritance a rooster could be the primitive version of the chicken.
+4. We invoke the animal's or phone talk method for each case so we don't need add the sounds to parrot class
 
 ## Deploying the application to k8s
