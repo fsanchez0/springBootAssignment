@@ -4,7 +4,7 @@ public class Duck extends Bird implements Fly, Swim {
 
 	@Override
 	public void canSwim() {
-		System.out.println("Duck can swim");
+		System.out.print("Duck can swim");
 
 	}
 
@@ -16,7 +16,7 @@ public class Duck extends Bird implements Fly, Swim {
 	
 	@Override
 	public void talks() {
-		System.out.println("Duck can talk");
+		System.out.print("Quack, quack");
 	}
 
 }

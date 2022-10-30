@@ -8,7 +8,7 @@ public class Chicken extends Bird implements Walk{
 	}
 	
 	public void talks() {
-		System.out.println("Chicken can talk");
+		System.out.print("Cluck, cluck");
 	}
 
 }

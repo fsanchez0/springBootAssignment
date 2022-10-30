@@ -26,5 +26,6 @@ mvn spring-boot:run
 1. Can you implement the sing() method for the bird?
     How did you unit test it: I've called the method on the test packages to check the 
     How did you optimize the code for maintainability? Name things clearly and consistently.
+2. Tests passed for Duck And Chicken talk
 
 ## Deploying the application to k8s
