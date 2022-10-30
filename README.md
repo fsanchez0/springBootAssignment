@@ -27,5 +27,6 @@ mvn spring-boot:run
     How did you unit test it: I've called the method on the test packages to check the 
     How did you optimize the code for maintainability? Name things clearly and consistently.
 2. Tests passed for Duck And Chicken talk
+3. Chicken is the younger version of rooster. Without using inheritance a rooster could be the primitive version of the chicken.
 
 ## Deploying the application to k8s

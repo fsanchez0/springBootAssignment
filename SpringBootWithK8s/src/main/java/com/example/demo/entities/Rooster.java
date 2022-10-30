@@ -9,7 +9,7 @@ public class Rooster extends Bird implements Walk{
 	
 	@Override
    public void talks() {
-	   System.out.println("Rooster can talk");
+	   System.out.print("Cock-a-doodle-doo");
    }
 	
 }
