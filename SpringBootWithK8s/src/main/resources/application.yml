@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    autoservicio:
+      jdbcUrl: jdbc:mariadb://servidorb:3306/autoservicio
+      username: fsanchez
+      password: popositA1
+      driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database-platform: org.hibernate.dialect.MariaDB103Dialect
+
+server:
+  port: 8080
